@@ -1,6 +1,6 @@
-## Olá, me chamo Maurício Barreto. 
+# Olá, me chamo Maurício Barreto. 
 
-# Sou desenvolvedor back-end!
+## Sou desenvolvedor back-end!
 Estou cursando Engenharia de Software na Universidade Católica de Salvador.
 Estudando Java e PostgreSQL.
 
