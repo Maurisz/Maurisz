@@ -1,4 +1,8 @@
-## Hi there 👋
+Olá, me chamo Maurício Barreto, sou desenvolvedor back-end!
+
+Estou cursando Engenharia de Software na Universidade Católica de Salvador.
+
+Estudando Java e PostgreSQL.
 
 <!--
 **Maurisz/Maurisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
