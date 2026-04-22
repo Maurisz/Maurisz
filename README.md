@@ -2,7 +2,7 @@
 
 ## Sou desenvolvedor back-end!
 - Estou cursando Engenharia de Software na Universidade Católica de Salvador.
-- Estudando Java e PostgreSQL.
+- Estudando Java, Python, C++ e PostgreSQL.
 
 <!--
 **Maurisz/Maurisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
